@@ -3,7 +3,7 @@
 <!-- [![PAPER](https://img.shields.io/badge/ICASSP_2026-paper-green)](TBA)
 [![PDF](https://img.shields.io/badge/ICASSP_2026-pdf-orange)](TBA) -->
 [![PAPER](https://img.shields.io/badge/ArXiv-paper-green)](https://arxiv.org/abs/2509.18561)
-[![PDF](https://img.shields.io/badge/ArXiv-pdf-orange)](./assets/pdf/2509.18561v1.pdf)
+[![PDF](https://img.shields.io/badge/ArXiv-pdf-orange)](./assets/pdf/2509.18561v3.pdf)
 [![WEBPAGE](https://img.shields.io/badge/Demo-webpage-blue)](https://choishio.github.io/demo-SoundCompass/)
 
 ### __Dayun Choi__ and __Jung-Woo Choi__*
